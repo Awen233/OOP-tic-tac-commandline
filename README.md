@@ -10,5 +10,4 @@ java -cp . course.oop.main.TTTDriver
 
 
 then the project starts running!
-
 GO GATOR!!
